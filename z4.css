@@ -1,0 +1,47 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+background-image:linear-gradient(rgba(0,0,0,0.4)40%,rgba(0,0,0,0.4)40%), url('z4.jpg');
+width:100%;
+height:100%;
+background-size:auto;
+background-position:center;
+background-image:n ;
+}
+header{
+ text-align: center;
+ margin: 10px auto ;
+ width: 80%;
+}
+header h3{
+ font-family: new times romans;
+ font-size:40px;
+ color: greenyellow;
+ font-weight:bold;
+ padding-bottom:5px;
+}
+header p{
+line-height: 20px;
+font-weight: bold;
+color: #fff;
+font-size: medium;
+}
+table,th,td{
+border: 1px solid black;
+margin:40px 350px;
+width:700px;
+
+}
+.third{
+color: #fff
+}
+.fourth
+{
+color: #fff;
+font-size: 40px;
+margin-left: 50px;
+
+
+}
